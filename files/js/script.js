@@ -135,7 +135,7 @@ const store = {
                 '2', // Mobile default
             autoLaunch: false,
             finale: false,
-            skyLighting: SKY_LIGHT_NORMAL + '',
+            skyLighting: SKY_LIGHT_DIM + '',
             hideControls: IS_HEADER,
             longExposure: false,
             scaleFactor: getDefaultScaleFactor()
